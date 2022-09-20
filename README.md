@@ -14,8 +14,8 @@ Amet aliquip pariatur elit consequat. Laborum in fugiat aute sint adipisicing es
 
 Requirements for the software and other tools to build, test and push
 
-  - [Example 1](https://github.com/Njthai)
-  - [Example 2](https://github.com/iRaphiki) 
+  - [Example 1](https://github.com/cod3spac3Academy)
+  - [Example 2](https://www.linkedin.com/in/antonio-cebri%C3%A1n-mesa/) 
 
 ### Installing
 A step by step series of examples that tell you how to get a development environment running
@@ -42,6 +42,13 @@ Add additional notes to deploy this on a live system
 
 ## Authors
 
+**-Programmer A** - Provided README Template- [Profile A](https://github.com/iRaphiki)
+
+**Programmer B** - Provided README Template- [Profile B](https://github.com/Njthai)
+
+See also the list of [contributors](https://www.linkedin.com/school/codespaceacademy/)
+
+who participated in this project.
 
 ## Licence
 
