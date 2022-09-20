@@ -15,10 +15,20 @@ Amet aliquip pariatur elit consequat. Laborum in fugiat aute sint adipisicing es
 Requirements for the software and other tools to build, test and push
 
   - [Example 1](https://github.com/Njthai)
-   - [Example 2](https://github.com/iRaphiki) 
+  - [Example 2](https://github.com/iRaphiki) 
 
 ### Installing
+A step by step series of examples that tell you how to get a development environment running
 
+Say what the step will be
+
+    Give the example
+
+And repeat
+
+    until finished
+
+End with an example of getting some data out of the system or using it for a little demo
 
 ## Deployment
 
