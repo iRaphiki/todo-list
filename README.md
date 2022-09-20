@@ -12,6 +12,10 @@ Amet aliquip pariatur elit consequat. Laborum in fugiat aute sint adipisicing es
 
 ### Prerequisites
 
+Requirements for the software and other tools to build, test and push
+
+  - [Example 1](https://github.com/Njthai)
+   - [Example 2](https://github.com/iRaphiki) 
 
 ### Installing
 
