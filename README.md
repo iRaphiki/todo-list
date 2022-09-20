@@ -2,7 +2,7 @@
   <img src="src/toDoListLogo.png" alt="ToDo-List">
 </h1>
 
-# Project title
+# Project Title
 Ad eu exercitation laboris ea occaecat reprehenderit exercitation dolor quis sint sit. Ipsum amet aliqua occaecat cupidatat nostrud veniam amet. Nisi in veniam occaecat quis adipisicing cupidatat elit adipisicing ullamco aliquip. Magna reprehenderit laboris officia anim do consequat sunt. 
 
 This paragraph has been generated using [Lorem Ipsum](https://www.lipsum.com/)
@@ -42,14 +42,11 @@ Add additional notes to deploy this on a live system
 
 ## Authors
 
-**-Programmer A** - Provided README Template- [Profile A](https://github.com/iRaphiki)
+ - **Programmer A** - Provided README Template- [Profile A](https://github.com/iRaphiki)
+ - **Programmer B** - Provided README Template- [Profile B](https://github.com/Njthai)
 
-**Programmer B** - Provided README Template- [Profile B](https://github.com/Njthai)
+See also the list of [contributors](https://github.com/iRaphiki/todo-list/graphs/contributors) who participated in this project.
 
-See also the list of [contributors](https://www.linkedin.com/school/codespaceacademy/)
+## License
 
-who participated in this project.
-
-## Licence
-
-
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details
